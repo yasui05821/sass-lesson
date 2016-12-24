@@ -9,8 +9,9 @@ $ git clone https://github.com/lec-cafe/sass-lesson
 $ cd ./pug-lesson
 ```
 
-`$ git clone`コマンドが難しい場合はZipでのダウンロードが可能です。
-
+`$ git clone`コマンドが難しい場合はZipでのダウンロードが可能です。  
+　  
+　
 
 2\. npmをインストールします
 
@@ -25,7 +26,9 @@ $ npm install
 $ npm install gulp -g
 ```
 エラー出たら、`$ sudo npm install gulp -g`このコマンドを実行してください。
-（その時にパスワードを聞かれるので、自分のパソコンのパスワードを入力してください)
+（その時にパスワードを聞かれるので、自分のパソコンのパスワードを入力してください) 
+　  
+　
 
 
 
