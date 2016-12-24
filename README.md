@@ -17,7 +17,10 @@ $ cd ./pug-lesson
 
 ```
 $ npm install
-```
+```  
+　
+  
+  　
 
 
 
