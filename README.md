@@ -9,7 +9,7 @@ $ git clone https://github.com/lec-cafe/sass-lesson
 $ cd ./pug-lesson
 ```
 
-`$git clone`コマンドが難しい場合はZipでのダウンロードが可能です。
+`$ git clone`コマンドが難しい場合はZipでのダウンロードが可能です。
 
 
 2\. npmをインストールします
@@ -29,14 +29,16 @@ $ npm install gulp -g
 
 
 
-3\.scssファイルをコンパイルする。
+## コマンドについて
+
+1\.scssファイルをコンパイルする。
 
 ```
 $ gulp build
 ```
 
 
-4\.sassの中にある全てのscssファイルを監視して、自動でコンパイルします。
+2\.sassの中にある全てのscssファイルを監視して、自動でコンパイルします。
 
 ```
 $ gulp
