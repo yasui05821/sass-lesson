@@ -2,7 +2,7 @@
 
 ## はじめに
 
-1\.このリポジトリをダウンロードして、sass-lessonのフォルダの中に移動します
+### 1\.このリポジトリをダウンロードして、sass-lessonのフォルダの中に移動します
 
 ```
 $ git clone https://github.com/lec-cafe/sass-lesson
@@ -13,12 +13,14 @@ $ cd ./pug-lesson
 　  
 　
 
-2\. npmをインストールします
+### 2\. npmをインストールします
 
 ```
 $ npm install
 ```
-
+  
+  　
+   
 ※ gulpを初めて使う方は以下のコマンドも入力してください
 
 
